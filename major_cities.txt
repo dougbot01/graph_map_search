@@ -1,0 +1,33 @@
+Los Angeles,34.052234,-118.243685
+San Diego,32.715329,-117.157255
+Sacramento,38.581572,-121.4944
+Reno,39.529633,-119.813803
+Carson City,39.163798,-119.767403
+Salt Lake City,40.760779,-111.891047
+Las Vegas,36.114646,-115.172816
+Albuquerque,35.084491,-106.651137
+Denver,39.737567,-104.984718
+Oklahoma City,35.46756,-97.516428
+
+San Diego,Los Angeles,196,I-5 N
+Los Angeles,San Diego,194,I-5 S
+Los Angeles,Sacramento,618,I-5 N
+Sacramento,Los Angeles,618,I-5 S
+Sacramento,Reno,212,I-80 E
+Reno,Sacramento,212,I-80 W
+Reno,Carson City,51,I-580 S
+Carson City,Reno,48,I-580 N
+Reno,Salt Lake City,833,I-80 E
+Salt Lake City,Reno,835,I-80 W
+Salt Lake City,Las Vegas,683,I-15 S
+Las Vegas,Salt Lake City,683,I-15 N
+Las Vegas,Los Angeles,427,I-15 S
+Los Angeles,Las Vegas,427,I-15 N
+Los Angeles,Albuquerque,1267,I-40 E
+Albuquerque,Los Angeles,1266,I-40 W
+Albuquerque,Oklahoma City,875,I-40 E
+Oklahoma City,Albuquerque,875,I-40 W
+Denver,Oklahoma City,1093,I-70 E
+Oklahoma City,Denver,1092,I-70 W
+Los Angeles,Denver,1635,I-15 N/I-70 E
+Denver,Los Angeles,1637,I-70 W/I-15 S

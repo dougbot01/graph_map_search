@@ -1,0 +1,33 @@
+"Los Angeles, CA",34.052234,-118.243685
+"San Diego, CA",32.715329,-117.157255
+"Sacramento, CA",38.581572,-121.4944
+"Reno, NV",39.529633,-119.813803
+"Carson City, NV",39.163798,-119.767403
+"Salt Lake City, UT",40.760779,-111.891047
+"Las Vegas, NV",36.114646,-115.172816
+"Albuquerque, NM",35.084491,-106.651137
+"Denver, CO",39.737567,-104.984718
+"Oklahoma City, OK",35.46756,-97.516428
+
+"San Diego, CA","Los Angeles, CA",196,I-5 N
+"Los Angeles, CA","San Diego, CA",194,I-5 S
+"Los Angeles, CA","Sacramento, CA",618,I-5 N
+"Sacramento, CA","Los Angeles, CA",618,I-5 S
+"Sacramento, CA","Reno, NV",212,I-80 E
+"Reno, NV","Sacramento, CA",212,I-80 W
+"Reno, NV","Carson City, NV",51,I-580 S
+"Carson City, NV","Reno, NV",48,I-580 N
+"Reno, NV","Salt Lake City, UT",833,I-80 E
+"Salt Lake City, UT","Reno, NV",835,I-80 W
+"Salt Lake City, UT","Las Vegas, NV",683,I-15 S
+"Las Vegas, NV","Salt Lake City, UT",683,I-15 N
+"Las Vegas, NV","Los Angeles, CA",427,I-15 S
+"Los Angeles, CA","Las Vegas, NV",427,I-15 N
+"Los Angeles, CA","Albuquerque, NM",1267,I-40 E
+"Albuquerque, NM","Los Angeles, CA",1266,I-40 W
+"Albuquerque, NM","Oklahoma City, OK",875,I-40 E
+"Oklahoma City, OK","Albuquerque, NM",875,I-40 W
+"Denver, CO","Oklahoma City, OK",1093,I-70 E
+"Oklahoma City, OK","Denver, CO",1092,I-70 W
+"Los Angeles, CA","Denver, CO",1635,I-15 N/I-70 E
+"Denver, CO","Los Angeles, CA",1637,I-70 W/I-15 S
