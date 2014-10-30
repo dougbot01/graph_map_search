@@ -10,7 +10,7 @@ Installing
 This was developed on Windows, so the code is portable. However, the instructions below are for installing on Ubuntu Linux.
 
 1.  Download the code
-2.  To compile using the included script, you'll need to download Boost 1.51.0 (http://sourceforge.net/projects/boost/files/boost/1.51.0/boost\_1\_51\_0.tar.gz/download) and untar it in the source directory. If your system includes a newer version of Boost, I assume it will work, but you will have to change the include directory in build.sh.
+2.  To compile using the included script, you'll need to download Boost 1.51.0 (http://sourceforge.net/projects/boost/files/boost/1.51.0/boost_1_51_0.tar.gz/download) and untar it in the source directory. If your system includes a newer version of Boost, I assume it will work, but you will have to change the include directory in build.sh.
 3.  From the command line: ./build.sh
 
 Running the program
